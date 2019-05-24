@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Inspired branding and marketing for the cannabis industry
-image: /img/home-jumbotron.jpg
+image: /img/forweb-21.jpg
 heading: Test
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
