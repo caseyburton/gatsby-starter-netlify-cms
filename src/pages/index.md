@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Test Inspired branding and marketing for the cannabis industry
+title: Casey Burton
 image: /img/forweb-21.jpg
 heading: Test
-subheading: Support sustainable farming while enjoying a cup
+subheading: Creative Director / Graphic Designer / Front End Developer
 mainpitch:
   title: Why Kaldi
   description: >
@@ -68,4 +68,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
