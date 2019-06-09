@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
 title: Casey Burton
-image: /img/forweb-21.jpg
-heading: Test
+image: /img/hc-116-xl.jpg
+heading: Happy to be of service.
 subheading: Creative Director / Graphic Designer / Front End Developer
 mainpitch:
   title: Why Kaldi
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
