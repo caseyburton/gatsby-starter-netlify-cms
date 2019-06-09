@@ -1,16 +1,13 @@
 ---
 templateKey: index-page
 title: Casey Burton
-image: /img/hc-116-xl.jpg
-heading: Happy to be of service.
+image: /img/casey-burton-creative-director-cannabis-industry.jpg
 subheading: Creative Director / Graphic Designer / Front End Developer
 mainpitch:
-  title: Why Kaldi
+  title: Test
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Able to bring together, inspire, and direct impactful stuffs.
+heading: Happy to be of service.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,4 +65,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
